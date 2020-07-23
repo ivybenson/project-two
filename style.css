@@ -1,3 +1,28 @@
-h1{
-  color :blue;
+body{
+  background-color: rgb(255, 255, 255);
+  align: center;
+}
+
+header {
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  background-color:blue;
+  background-size: 900px 500px;
+  font-size: 20px;
+  text-align:center;
+}
+
+header h1{
+  text-shadow: 0px 0px 10px #000;
+  color: rgb(235, 231, 231);
+}
+
+header p{
+  font-size: 16px;
+  color: rgb(235, 231, 231);
+}
+
+
+footer{
+  background-color: rgb(196, 196, 196);
+  text-align:center;
 }
